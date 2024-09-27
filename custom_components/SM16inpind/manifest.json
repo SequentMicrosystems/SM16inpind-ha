@@ -1,0 +1,13 @@
+{
+	"domain": "SM16inpind",
+	"name": "Sequent Microsystems Sixteen INPUTS Integration",
+	"version": "1.0.0",
+	"integration_type": "device",
+	"documentation": "https://github.com/SequentMicrosystems/SM16inpind-ha",
+	"issue_tracker": "https://github.com/SequentMicrosystems/SM16inpind-ha",
+	"dependencies": [],
+	"after_dependencies": [],
+	"codeownders": ["3lv"],
+	"config_flow": false,
+	"requirements": ["SM16inpind>=1.0.0"]
+}
