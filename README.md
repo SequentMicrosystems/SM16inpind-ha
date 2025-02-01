@@ -1,6 +1,6 @@
 # Sequent Microsystems Sixteen INPUTS Home Assistant Integration
 
-Integrate [Sixteen INPUTS](https://sequentmicrosystems.com/collections/all-io-cards/products/16-universal-inputs-card-for-raspberry-pi)
+Integrate [Sixteen INPUTS](https://sequentmicrosystems.com/products/sixteen-lv-digital-inputs-card-for-raspberry-pi)
 seamlessly with Home Assistant, bringing all your custom functionality into the Home Assistant ecosystem for enhanced control, automation, and ease of use.
 
 
