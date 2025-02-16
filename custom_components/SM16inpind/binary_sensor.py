@@ -91,7 +91,7 @@ class BinarySensor(BinarySensorEntity):
         return False
 
     def update(self):
-        time.sleep(self._short_timeout)
+        #time.sleep(self._short_timeout)
         try:
             self._value = self._SM_get(self._chan)
         except Exception as ex:
