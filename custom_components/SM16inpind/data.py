@@ -1,5 +1,5 @@
 FULL_NAME = "Sixteen INPUTS"
-LINK = "https://sequentmicrosystems.com/products/16-universal-inputs-card-for-raspberry-pi"
+LINK = "https://sequentmicrosystems.com/products/sixteen-lv-digital-inputs-card-for-raspberry-pi"
 
 import lib16inpind
 API = lib16inpind
